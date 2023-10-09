@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hemanathportfolio.hemanathm.repl.co/](https://hemanathportfolio.hemanathm.repl.co/)
 
-- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,JAVA,C.**
+- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,JAVA,SQL**
 
 - 📫 How to reach me **hemanath7867@gmail.com**
 
@@ -13,8 +13,9 @@
 
 <br>
 
- ---
-### :iphone: Reach Me :
+
+ 
+## 🌐 Socials:
 
 <div id="badges" align='center'>
 
@@ -28,25 +29,31 @@
   <img src="https://komarev.com/ghpvc/?username=hemanath78&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt=""/>
 </a>
   
-
 </div>
+<br>
+
+
+# 💻 Tech Stack:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hemanath78&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hemanath78&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanath78&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hemanath78&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hemanath78&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hemanath78&theme=dark&hide_border=true&background=0D1117&border=0D1117)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanath78&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanath78&count_private=true&show_icons=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hemanath78&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
