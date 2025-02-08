@@ -2,18 +2,9 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-- 👨‍💻 All of my projects are available at [https://hemanathportfolio.hemanathm.repl.co/](https://hemanathportfolio.hemanathm.repl.co/)
-
-- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,JAVA,SQL**
-
 - 📫 How to reach me **hemanath7867@gmail.com**
 
-- 📄 Know about my experiences [https://hemanathportfolio.hemanathm.repl.co/assets/pdf/CV_Resume%20Hemanath_M.pdf](https://hemanathportfolio.hemanathm.repl.co/assets/pdf/CV_Resume%20Hemanath_M.pdf)
-
 <br>
-
-
  
 ## 🌐 Socials:
 
